@@ -1,1 +1,1 @@
-hello git good night
+this is newly created file
